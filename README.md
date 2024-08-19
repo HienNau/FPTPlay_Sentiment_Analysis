@@ -3,8 +3,7 @@ challenges of processing Vietnamese text, determine whether comment is positive,
 ultimately enhancing customer satisfaction.
 
   Link of PhoBERT model:
-https://pdfs.semanticscholar.org/74fc/832dd6c77253595cf3c1c852045c8da
-93c13.pdf
+  https://pdfs.semanticscholar.org/74fc/832dd6c77253595cf3c1c852045c8da93c13.pdf
   Link of Transformer model for inserting Vietnamese accent marks:
   https://huggingface.co/peterhung/vietnamese-accent-marker-xlm-roberta
   
