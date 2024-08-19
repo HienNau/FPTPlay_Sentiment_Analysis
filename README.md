@@ -9,6 +9,7 @@ ultimately enhancing customer satisfaction.
   https://huggingface.co/peterhung/vietnamese-accent-marker-xlm-roberta
   
 - Extracting data from MongoDB, cleaning and transforming data using python.
+  
   ![image](https://github.com/user-attachments/assets/5c238df9-e375-4f66-ab4f-c823961975b3)
 
   ![image](https://github.com/user-attachments/assets/9ab34226-1a4b-4ab5-8f5b-89077eea904f)
